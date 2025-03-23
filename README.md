@@ -15,5 +15,5 @@ Program Nasıl Çalışır?
    - `Reffer` (hakem) fonksiyonu rastgele goller belirler.  
    - Kazanan, kaybeden ve puanlar güncellenir.  
 5. **Sonuçlar Kaydedilir:**  
-   - `SaveResult` fonksiyonu ile her hafta oynanan maçlar kaydedilir.  
+   - `SaveResult` fonksiyonu ile her oynanan maçlarin sonuc kaydedilir.  
    - `SaveResultInFile` fonksiyonu ile sezon sonunda fikstür ve puan durumu dosyaya yazdırılır.  
